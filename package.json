@@ -1,0 +1,27 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoaLe1601/B1906498_LeMinhKhoa_TH1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhoaLe1601/B1906498_LeMinhKhoa_TH1/issues"
+  },
+  "homepage": "https://github.com/KhoaLe1601/B1906498_LeMinhKhoa_TH1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-load": "^1.1.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
